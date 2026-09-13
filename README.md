@@ -1,8 +1,6 @@
 # Hi, I'm İlkim Eren 👋
 
-### Software Developer
-
-### About
+### Computer Engineering Student | Software Developer
 
 I'm a Computer Engineering student interested in web development, game development, simulation with Unreal Engine, Python-based automation, and AI & image processing. I like working across these different areas and picking up new tools as I go.
 
@@ -22,6 +20,7 @@ I'm a Computer Engineering student interested in web development, game developme
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
 **Web Development**
@@ -45,7 +44,7 @@ I'm a Computer Engineering student interested in web development, game developme
 **Tools & Platforms**
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub" /></a>
 </p>
 
 ---
@@ -63,4 +62,3 @@ I'm a Computer Engineering student interested in web development, game developme
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="itch.io" /></a>
 </p>
-
