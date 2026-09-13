@@ -15,11 +15,10 @@
 
 I work across the stack — web applications with Angular and TypeScript, and real-time systems in Unity and Unreal Engine 5. I have 3 years of hands-on experience building games (C#, C++) alongside my web development work, and I'm also interested in AI and image processing.
 
-- 🖥️ Full-stack web development — Angular, TypeScript, SCSS
 - 🎮 3 years of game development — Unity, Unreal Engine 5, C#, C++
+- 🖥️ Full-stack web development — Angular, TypeScript, SCSS
 - 🧠 Interested in AI & image processing
-- 🏆 Game jam participant (OstimJam, MağaraJam, Jamination)
-- 💬 Ask me about Angular, Unity, Unreal Engine, C#/C++, or image processing
+- 🏆 Game jam participant
 
 ---
 
@@ -51,13 +50,6 @@ I work across the stack — web applications with Angular and TypeScript, and re
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-[![İlkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilqim&show_icons=true&theme=dark&hide_border=true)](https://github.com/ilqim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilqim&layout=compact&theme=dark&hide_border=true)](https://github.com/ilqim)
 
 ---
 
