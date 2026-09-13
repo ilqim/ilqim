@@ -1,13 +1,29 @@
+<div align="center">
+
 # Hi, I'm İlkim Eren 👋
 
 ### Software Developer
 
 📍 Ankara, Turkey
 
-[![LinkedIn](https://img.shields.io/badge/-ilkim--eren-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkim-eren-15b30a294/)
-[![YouTube](https://img.shields.io/badge/-ilqimgames-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ilqimgames)
-[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-ilkimeren25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ilkimeren25@gmail.com)
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilkim-eren-15b30a294/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://github.com/ilqim" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@ilqimgames" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
+  <a href="mailto:ilkimeren25@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail" /></a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="itch.io" /></a>
+</p>
 
 ---
 
@@ -22,39 +38,44 @@ I work across the stack — web applications with Angular and TypeScript, and re
 
 ---
 
-### 🛠️ Tech Stack
-
-**Web**
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Game Development**
-
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-
-**AI & Image Processing**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### 🛠️ Skills & Technologies
 
 **Languages**
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
+</p>
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+**Web Development**
+<p align="left">
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="SCSS" /></a>
+</p>
 
-**Tools**
+**Game Development**
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/unrealengine/ffffff" width="36" height="36" alt="Unreal Engine" /></a>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**AI / Image Processing**
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 📫 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkim-eren-15b30a294/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ilqimgames)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilkimeren25@gmail.com)
+[![İlkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilqim&show_icons=true&theme=dark&hide_border=true)](https://github.com/ilqim)
+
+</div>
