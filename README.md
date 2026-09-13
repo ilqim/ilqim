@@ -6,23 +6,6 @@
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ilkim-eren-15b30a294/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://github.com/ilqim" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@ilqimgames" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
-  <a href="mailto:ilkimeren25@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail" /></a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="itch.io" /></a>
-</p>
-
----
-
 ### About
 
 I'm a Computer Engineering student interested in web development, game development, simulation with Unreal Engine, Python-based automation, and AI & image processing. I like working across these different areas and picking up new tools as I go.
@@ -70,5 +53,18 @@ I'm a Computer Engineering student interested in web development, game developme
 </p>
 
 ---
+### 🔗 Connect With Me
 
-[![İlkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilqim&show_icons=true&theme=dark&hide_border=true)](https://github.com/ilqim)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilkim-eren-15b30a294/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://github.com/ilqim" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@ilqimgames" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
+  <a href="mailto:ilkimeren25@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail" /></a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="itch.io" /></a>
+</p>
+
