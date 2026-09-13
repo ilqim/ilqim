@@ -1,12 +1,8 @@
-<div align="center">
-
 # Hi, I'm İlkim Eren 👋
 
 ### Software Developer
 
 📍 Ankara, Turkey
-
-</div>
 
 ---
 
@@ -29,11 +25,11 @@
 
 ### About
 
-I work across the stack — web applications with Angular and TypeScript, and real-time systems in Unity and Unreal Engine 5. I have 3 years of hands-on experience building games (C#, C++) alongside my web development work, and I'm also interested in AI and image processing.
+I like moving between different kinds of problems rather than sticking to just one — building interfaces with Angular and TypeScript, shaping real-time systems in Unity and Unreal Engine 5, and experimenting with AI-driven image processing.
 
-- 🎮 3 years of game development — Unity, Unreal Engine 5, C#, C++
-- 🖥️ Full-stack web development — Angular, TypeScript, SCSS
-- 🧠 Interested in AI & image processing
+- 🖥️ Web development — Angular, TypeScript, SCSS
+- 🎮 Game development — Unity, Unreal Engine 5, C#, C++
+- 🧠 AI & image processing — Python, OpenCV
 - 🏆 Game jam participant
 
 ---
@@ -42,10 +38,10 @@ I work across the stack — web applications with Angular and TypeScript, and re
 
 **Languages**
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
 **Web Development**
@@ -62,7 +58,7 @@ I work across the stack — web applications with Angular and TypeScript, and re
 
 **AI / Image Processing**
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
 </p>
 
@@ -74,8 +70,4 @@ I work across the stack — web applications with Angular and TypeScript, and re
 
 ---
 
-<div align="center">
-
 [![İlkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilqim&show_icons=true&theme=dark&hide_border=true)](https://github.com/ilqim)
-
-</div>
