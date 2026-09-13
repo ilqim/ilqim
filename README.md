@@ -2,10 +2,6 @@
 
 ### Software Developer
 
-📍 Ankara, Turkey
-
----
-
 ### About
 
 I'm a Computer Engineering student interested in web development, game development, simulation with Unreal Engine, Python-based automation, and AI & image processing. I like working across these different areas and picking up new tools as I go.
