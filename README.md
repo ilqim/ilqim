@@ -25,10 +25,11 @@
 
 ### About
 
-I like moving between different kinds of problems rather than sticking to just one — building interfaces with Angular and TypeScript, shaping real-time systems in Unity and Unreal Engine 5, and experimenting with AI-driven image processing.
+I'm a Computer Engineering student interested in web development, game development, simulation with Unreal Engine, Python-based automation, and AI & image processing. I like working across these different areas and picking up new tools as I go.
 
 - 🖥️ Web development — Angular, TypeScript, SCSS
-- 🎮 Game development — Unity, Unreal Engine 5, C#, C++
+- 🎮 Game development & simulation — Unity, Unreal Engine 5, C#, C++
+- ⚙️ Automation — Python
 - 🧠 AI & image processing — Python, OpenCV
 - 🏆 Game jam participant
 
